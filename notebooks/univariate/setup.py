@@ -30,3 +30,4 @@ def save_chart(filename):
     os.makedirs('../../visualizations', exist_ok=True)
     plt.savefig(f'../../visualizations/{filename}', dpi=300, bbox_inches='tight')
     print(f" Chart saved: visualizations/{filename}")
+    
