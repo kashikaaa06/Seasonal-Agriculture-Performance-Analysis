@@ -110,14 +110,8 @@ This project performs a comprehensive **data analytics** study of agricultural p
 
 ## 📊 Sample Visualizations
 
-### 1. Seasonal Profit Comparison
-![Profit by Season](q7_categorical_variables.png)
-
-### 2. Crop Performance by State
+###  Crop Performance by State
 ![State Crop Heatmap](visualizations/q13_state_crop_heatmap.png)
-
-### 3. Seasonal performance
-![Weather Impact](q17_conclusion.png)
 
 ---
 
